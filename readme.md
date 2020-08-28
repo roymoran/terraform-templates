@@ -1,0 +1,2 @@
+## Reference Templates
+- [Datastores](./datastores)
